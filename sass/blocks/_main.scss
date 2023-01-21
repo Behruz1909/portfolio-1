@@ -1,0 +1,19 @@
+.wrap{
+    display: inline-block;
+    margin-top: 150px;
+}
+.element{
+    color: rgba(255, 255, 255, 0.795);
+    font-size: 50px;
+}
+.wrap__two{
+    margin-left: 900px;
+    margin-top: -150px;
+}
+.wrap__two__img{
+    border-radius: 30px;
+    transition: all 0.3s linear;
+}
+.wrap__two__img:hover{
+    box-shadow: rgba(248, 8, 8, 0.925) 0px 10px 28px, rgb(0, 0, 0) 0px 10px 10px;
+}
